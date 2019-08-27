@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import Layout from '../components/Layout';
 import content from '../content/home.md';
 
